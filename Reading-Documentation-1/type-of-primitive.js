@@ -1,0 +1,8 @@
+// Predict reslults off the following lines of code
+
+console.log(typeof 23.5); // number
+console.log(typeof 'Call me Ishmael.'); // string
+console.log(typeof false); // boolean
+console.log(typeof 0); // number
+console.log(typeof null); // object
+console.log(typeof undefined); // undefined
